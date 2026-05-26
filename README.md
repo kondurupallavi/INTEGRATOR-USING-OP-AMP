@@ -50,5 +50,5 @@ ii)  SQUARE WAVE INPUT
 
 
 ## RESULT:
-<img width="1600" height="886" alt="image" src="https://github.com/user-attachments/assets/d736a409-d942-4934-8366-a5a825ed07e3" />
+<img width="1600" height="886" alt="image" src="https://github.com/user-attachments/assets/d736a409-d942-4934-8366-a5a825ed07e3" />.
 
